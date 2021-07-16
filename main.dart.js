@@ -44245,8 +44245,8 @@ aX:function(){return new F.CI(A.a0l().kg("jms").kL(new P.c2(Date.now(),!1)),C.p)
 F.CI.prototype={
 bh:function(){P.a29(P.c3(0,0,1),new F.TK(this))
 this.bK()},
-S:function(a,b){var s=null,r="FrederickatheGreat",q=4278656573,p=b.a7(t.w).f.a.a*0.15
-return new M.q8(new Q.xX(M.Xw(s,T.Hf(L.a26(this.a.c,A.mw(s,s,new P.D(4294967295),s,s,s,s,s,r,s,s,30,s,s,s,s,!0,s,s,s,s,s,s,s),s),s,s),s,new S.fm(new P.D(q),s,s,K.GS(25),s,s,C.a4),new V.bo(p,5,p,5),s,s),new P.ab(10,50),s),T.Hf(L.a26(this.d,A.mw(s,s,new P.D(q),s,s,s,s,s,r,s,s,100,s,s,s,s,!0,s,s,s,s,s,s,s),C.bu),s,s),new P.D(4280411841),s)}}
+S:function(a,b){var s=null,r="FrederickatheGreat",q=4278656573,p=b.a7(t.w).f.a.a,o=p*0.15
+return new M.q8(new Q.xX(M.Xw(s,T.Hf(L.a26(this.a.c,A.mw(s,s,new P.D(4294967295),s,s,s,s,s,r,s,s,30*(p/600),s,s,s,s,!0,s,s,s,s,s,s,s),s),s,s),s,new S.fm(new P.D(q),s,s,K.GS(25),s,s,C.a4),new V.bo(o,5,o,5),s,s),new P.ab(10,50),s),T.Hf(L.a26(this.d,A.mw(s,s,new P.D(q),s,s,s,s,s,r,s,s,100*(p/1200),s,s,s,s,!0,s,s,s,s,s,s,s),C.bu),s,s),new P.D(4280411841),s)}}
 F.TK.prototype={
 $1:function(a){var s=this.a
 s.aQ(new F.TJ(s,A.a0l().kg("jms").kL(new P.c2(Date.now(),!1))))},
